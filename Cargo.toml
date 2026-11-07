@@ -1,0 +1,10 @@
+[package]
+name = "tajweed-rs-makharij-phonetic-map"
+version = "1.0.0"
+edition = "2021"
+description = "17 Articulation Points (Makharij) & Sifat Feature Matrix"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "tajweed_rs_makharij_phonetic_map"
+path = "main.rs"
